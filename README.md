@@ -2,7 +2,7 @@
 
 
 
-I am an Undergraduate Computer Engineer with a strong passion for problem solving and an unparalleled commitment to excellence. I am an avid programmer, an adaptive and excellent team player with practical knowledge of modern software design patterns who is always looking to add value.
+I am a Java Backend Engineer with a strong passion for problem solving and an unparalleled commitment to excellence. I am an avid programmer, an adaptive and excellent team player with practical knowledge of modern software design patterns who is always looking to add value.
 
 I am a quick learner with a consistent history of mastering tools on the job in my previous roles. I am passionate about designing and building scalable software solutions that solve real world problems. I am well-organized and pro-active with phenomenal time management skills.
 
