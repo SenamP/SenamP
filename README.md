@@ -50,3 +50,11 @@
 <img src="https://raw.githubusercontent.com/Ash-ura/Ash-ura/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Ashura">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yvm7lpyslo54kxznif5qlqvmlu&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
