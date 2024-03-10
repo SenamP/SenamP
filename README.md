@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Backend Engineer with a strong passion for problem solving and an unparalleled commitment to excellence. I am an avid developer, an adaptive and excellent team player with practical knowledge of modern software design patterns who is always looking to add value.<br><br>I am a quick learner with a consistent history of mastering tools on the job in my previous roles. I am passionate about designing and building scalable software solutions that solve real world problems. I am well-organized and proactive with phenomenal time management skills.</p>
+<p align="left">I am a Backend Engineer with a strong passion for problem solving and an unparalleled commitment to excellence. I am an avid developer, an adaptive and excellent team player with practical knowledge of modern software design patterns who is always looking to add value.<br><br>I am a quick learner with a consistent history of mastering tools on the job in my previous roles. I am passionate about designing and building scalable software solutions that solve real world problems. I am well-organized and pro-active with phenomenal time management skills.</p>
 
 ###
 
@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,4 +50,3 @@
 <img src="https://raw.githubusercontent.com/Ash-ura/Ash-ura/output/snake.svg" alt="Snake animation" />
 
 ###
-
