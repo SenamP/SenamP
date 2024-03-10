@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ash-ura/Ash-ura/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ash-ura/Ashura/output/snake.svg" alt="Snake animation" />
 
 ###
 
